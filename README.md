@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DFIR Research @teambi0s**
 
-- 🌱 I’m currently learning and exploring **DFIR**
+- 🌱 I’m currently learning and exploring **DFIR and Maldev**
 
 - 📫 How to reach me **jodhillal2005@gmail.com**
 
